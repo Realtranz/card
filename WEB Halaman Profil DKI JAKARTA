@@ -1,0 +1,98 @@
+<!DOCTYPE html><html>
+<head>
+    <meta charset="utf-8">
+    <title> Halaman Profil DKI Jakarta</title>
+</head>
+<body>
+    <h1>DKI Jakarta</h1>
+    <p>
+      Kota Jakarta merupakan kota metropolitan, sekaligus menjadi ibu kota negara republik Indonesia nama Batavia pun diganti menjadi Jakarta. 
+      Nama ini diambil dari kata "Jayakarta" yang digunakan pada masa lampau, dengan penambahan akhiran "-ta" yang berarti "tempat" dalam bahasa Sanskerta.
+    </p>
+
+   <ul>
+    <li>
+        <a href="#sejarah">Sejarah</a>
+    </li>
+    <li>
+        <a href="#geografis">Geografis</a>
+    </li>
+    <li>
+        <a href="#wisata">Wisata</a>
+    </li>
+   </ul>
+   
+<article>
+    <h2 id="sejarah">Sejarah</h2>
+    <img src="assets/history.jpg" alt="Sejarah"
+    
+
+    <p>
+        Nama "Jakarta" merupakan kependekan dari kata Jayakarta (aksara Dewanagari: जयकृत), yang berasal dari kata bahasa Sanskerta जय jaya (kemenangan), dan कृत krta (kemakmuran), 
+        sehingga Jayakarta sehingga berarti "kota kejayaan dan kemakmuran".
+    </p>
+</article>
+
+<article>
+    <h2 id="geografis">Geografis</h2>
+    <img src="assets/geografis.jpg" alt="Geografis"
+
+    <p>
+        Jakarta, dengan luas kota 661,52 Km2, terletak di antara 60 8′ Lintang Selatan dan 106 0 48′ Bujur Timur.
+        Sebelah barat berbatasan dengan Propinsi Banten dan sebelah timur dan selatan berbatasan dengan Propinsi Jawa Barat. 
+        Di sebelah utaranya berbatasan dengan laut Jawa.
+    </p>
+</article>
+
+<article>
+    <section>
+    <h2 id="wisata">Wisata</h2>
+    <p>
+        Kota Jakarta telah menjadi tujuan utama dalam menikmati liburan akhir pekan terutama masyarakat Jakarta dan sekitarnya. 
+        ada beberapa tempat wisata yang wajib dikunjungi jika berkunjung ke Jakarta.
+    </p>
+    </section>
+    <section>
+
+    <h3>Monumen Nasional</h3>
+    <img src="assets/monas.jpg" alt="Monas"
+
+    <p>
+        Monumen Nasional atau yang disingkat dengan Monas atau Tugu Monas adalah monumen peringatan setinggi 132 meter (433 kaki) yang terletak tepat di tengah Lapangan Medan Merdeka, Jakarta Pusat. 
+        Monas didirikan untuk mengenang perlawanan dan perjuangan rakyat Indonesia dalam merebut kemerdekaan dari pemerintahan kolonial Kekaisaran Belanda. Pembangunan dimulai pada 17 Agustus 1961 di bawah perintah presiden Soekarno dan diresmikan hingga dibuka untuk umum pada 12 Juli 1975 oleh Presiden Soeharto. 
+        Tugu ini dimahkotai lidah api yang dilapisi lembaran emas yang melambangkan semangat perjuangan yang menyala-nyala dari rakyat Indonesia.    
+    </p>
+    </section>  
+    <section>
+    <h3>Museum Fatahillah</h3>
+    <img src="assets/museum.jpg" alt="Museum"
+
+    <p>
+        Museum Fatahillah memiliki nama resmi Museum Sejarah Jakarta adalah sebuah museum yang terletak di Jalan Taman Fatahillah Nomor 1, Jakarta Barat, dengan luas lebih dari 1.300 meter persegi.
+        Bangunan ini dahulu merupakan Balai Kota Batavia (bahasa Belanda: Stadhuis van Batavia) yang dibangun pada tahun 1707-1710 atas perintah Gubernur Jenderal Joan van Hoorn. 
+        Bangunan ini menyerupai Istana Dam di Amsterdam, terdiri atas bangunan utama dengan dua sayap di bagian timur dan barat serta bangunan sanding yang digunakan sebagai kantor, ruang pengadilan, dan ruang-ruang bawah tanah yang dipakai sebagai penjara. 
+        Pada tanggal 30 Maret 1974, bangunan ini kemudian diresmikan oleh bapak Ali Sadikin sebagai Museum Sejarah Jakarta.
+    </p>
+    </section>
+</article>
+
+    <p>Hubungi Kami di:</p>
+    <ul>
+        <li><a href="https://www.datascienceportfol.io/dashboard"> Website</a></li>
+        <li><a href="putrazidni0643@gmail.com">Email</a> </li>
+        <li><a href="+62123456">Telp</a></li>
+        <li><a href="https://www.google.com/maps/place/Jl.+Musholla+Ikhwanul+Huda,+Cililitan,+Kec.+Kramat+jati,+Kota+Jakarta+Timur,+Daerah+Khusus+Ibukota+Jakarta+13640/@-6.2661072,106.8651892,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f2f812024797:0x41c8f00cb6e75220!8m2!3d-6.2661072!4d106.8651892!16s%2Fg%2F11g8y9_b3w?entry=ttu">Alamat</a></li>
+    </ul>
+
+    <aside>
+        <h2>Kota Jakarta</h2>
+        <p>Kota Metropolitan Jakarta</p>
+        <figure>
+            <img src="assets/jakarta.jpg" />
+            <figcaption>Lambang</figcaption>
+        </figure>
+    </aside>
+</main>
+
+</body>
+</html>
